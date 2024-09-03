@@ -1,0 +1,39 @@
+body{
+    margin-left: 15%;
+    margin-top: 5%;
+}
+
+.view{
+    border-color: 1px solid #651A74;
+    border-radius: 15px;
+    padding: 5px 10px;
+    color: #651A74;
+    background-color: white;
+    text-align: center;
+    margin-left: 20%;
+    transition: 0.4s;
+    
+}
+.view:hover{
+    background-color: #651A74;
+    color: white;
+}
+.view1{
+    border-color: rgb(215, 97, 53);
+    color: rgb(215, 97, 53);
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 20%;
+    padding: 5px 10px;
+    transition: 0.4s;
+
+
+}
+h1,h2,h3{
+    color:#651A74;
+}
+
+.view1:hover{
+    background-color: rgb(215, 97, 53);
+    color:white;
+}
